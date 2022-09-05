@@ -52,7 +52,7 @@
                 }
               ],
               "outputHashing": "all",
-			  "baseHref": "https://VaSrivastava.github.io/Medi-Bill"
+			  "baseHref": "Medi-Bill"
             },
             "development": {
               "buildOptimizer": false,
