@@ -1,0 +1,12 @@
+.main-container {
+    min-height: 700px;
+}
+
+.header {
+    height:150px;
+}
+
+.left-header {
+    width:20%;
+    height:100%;
+}
