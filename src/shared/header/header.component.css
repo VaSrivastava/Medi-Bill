@@ -1,0 +1,40 @@
+.header {
+  height: 125px;
+  border: 1px solid;
+}
+
+.left-header {
+  width: 15%;
+  border-right: 1px solid;
+  text-align: center;
+  height: 100%;
+  float:left;
+}
+
+.right-header {
+  float: right;
+  width: 15%;
+  height: 100%;
+  border-left: 1px solid;
+  text-align: center;
+}
+
+.mid-header {
+  text-align: center;
+  width: calc(70% - 2px);
+  float: left;
+  height: 100%;
+}
+
+.mid-header h1 {
+  font-size: 50px;
+}
+
+.right-header img {
+    margin-top: 5px;
+}
+
+.right-header label {
+  display: block;
+  font-weight: bold;
+}
