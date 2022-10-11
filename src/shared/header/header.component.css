@@ -1,6 +1,11 @@
 .header {
-  height: 125px;
+  height: 19%;
   border: 1px solid;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  background-color:white;
+  z-index: 1;
 }
 
 .left-header {
